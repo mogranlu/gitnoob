@@ -1,0 +1,10 @@
+# README - feature1
+
+# This is the content originally created from a feature branch.
+# The idea is to test the "no fast forward" feature of git merge:
+# git merge --no-ff
+# ... to compress all the commits made on a feature branch into "one unit".
+
+
+# This is the folder/directory containing "feature 1"
+
